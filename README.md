@@ -8,6 +8,9 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/MyWebsite-pink" alt="website badge"/>
+  </a>
 </div>
 
 ### </Hello World> 👋
