@@ -2,7 +2,7 @@
   <img src="Catherine Cantoran.png">
 </div>
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/catherine-cantoran-1967a9b6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/Catheri67786970">
