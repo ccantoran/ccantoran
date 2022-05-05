@@ -5,13 +5,13 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/Catheri67786970">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="#">
     <img src="https://img.shields.io/badge/MyWebsite-orange?style=for-the-badge&logoColor=white" alt="website badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://collabschicago.netlify.app/">
     <img src="https://img.shields.io/badge/COL+LABS-orange?style=for-the-badge&logoColor=white" alt="website badge"/>
   </a>
 </div>
