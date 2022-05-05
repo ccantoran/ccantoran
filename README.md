@@ -11,6 +11,9 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/MyWebsite-orange?style=for-the-badge&logoColor=white" alt="website badge"/>
   </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/COL+LABS-pink?style=for-the-badge&logoColor=white" alt="website badge"/>
+  </a>
 </div>
 
 ### </Hello World> 👋
