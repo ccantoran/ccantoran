@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/MyWebsite-pink?style=for-the-badge" alt="website badge"/>
+    <img src="https://img.shields.io/badge/MyWebsite-orange?style=for-the-badge&logoColor=white" alt="website badge"/>
   </a>
 </div>
 
