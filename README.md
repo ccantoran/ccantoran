@@ -14,8 +14,6 @@
   <a href="https://collabschicago.netlify.app/">
     <img src="https://img.shields.io/badge/COL+LABS-orange?style=for-the-badge&logoColor=white" alt="website badge"/>
   </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
 </div>
 
 ### </Hello World> 👋
