@@ -8,12 +8,9 @@
   <a href="https://twitter.com/Catheri67786970">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="#">
+  <a href="https://catherinecantoran.com/">
     <img src="https://img.shields.io/badge/MyWebsite-orange?style=for-the-badge&logoColor=white" alt="website badge"/>
   </a>
-  <a href="https://collabschicago.netlify.app/">
-    <img src="https://img.shields.io/badge/COL+LABS-orange?style=for-the-badge&logoColor=white" alt="website badge"/>
-  </a> 
 </div>
 
 ### </Hello World> 👋
