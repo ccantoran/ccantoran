@@ -13,7 +13,7 @@
   </a>
 </div>
 
-### </Hello World> 👋
+### Hello there!
 
 
 I am a Full-Stack Engineer looking to expand on my portfolio and always looking to collaborate! 
